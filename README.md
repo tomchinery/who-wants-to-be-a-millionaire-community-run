@@ -1,8 +1,8 @@
-# `'Who wants to be a Millionaire' Community Run Plugin`
-
-> A slack/discord plugin for 'Who want's to be a Millionaire' community runs.
+# `'Who wants to be a Millionaire' Community Run`
 
 ![Who wants to be a Millionaire logo](https://upload.wikimedia.org/wikipedia/en/4/4e/Who_Wants_to_Be_a_Millionaire.png)
+
+> A slack/discord plugin for 'Who want's to be a Millionaire' community runs.
 
 ## Summary
 As apart of a community event (similar to the virtual pub-quizes that have been happening during isolation) I’d like to put together a Community run of the `Who wants to be a Millionaire’ video game (my version is on my PS2; my homebrew console). 
